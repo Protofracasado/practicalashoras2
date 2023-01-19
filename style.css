@@ -1,0 +1,47 @@
+* {
+    background-color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: #692318;
+    text-align: center;
+}
+
+p.carta {
+    color: brown;
+    font-size: 20px;
+}
+
+p.cafe {
+    color: brown;
+    text-align: center;
+    font-size: 20px;
+}
+
+p.contacto {
+    color: brown;
+    text-align: right;
+    font-size: 20px;
+}
+
+.lacarta {
+    color: brown;
+}
+
+.elcafe {
+    color: brown;
+}
+
+.elcontacto {
+    color: brown;
+    text-align: center;
+}
+
+footer {
+    text-align: right;
+}
+
+ div.text {
+    color: red;
+ }
